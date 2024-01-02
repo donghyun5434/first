@@ -1,0 +1,36 @@
+.main-background{
+    width: 100%;
+    height: 500px;
+    background-image: url(../img/KakaoTalk_20220925_135204573.jpg);
+    /* filter:brightness(70%) */
+    padding: 1px;
+}
+.main-title{
+    color: white;
+    font-size: 150px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    text-align: center;
+    text-shadow: -15px 0 #000, 0 5px #000, 0 5px #000, 0 -0px #000;
+}
+.sub-div{
+    width: 40%;
+    height: 30%;
+    background: white;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+    text-align: center;
+}
+.main-button{
+    position: relative; 
+    top:20px;
+}
+.keep-button{
+
+}
+.small{
+    position: fixed;
+    top:800px;
+
+}
